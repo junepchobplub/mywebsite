@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: "MyFont1";
-        src: url("TA16BIT-Regular.ttf");
+        src: url("j.devilfont@Drift King Ex Italic Demo.otf");
       }
       @font-face{
         font-family: "MyFont2";
