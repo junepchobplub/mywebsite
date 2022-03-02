@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: "MyFont2";
-        src: url("ChocolateteehaypaiTEST.ttf");
+        src: url("wassartwisuwatfont.ttf");
       }
       #font1{
         font-family: "MyFont1";
@@ -19,7 +19,7 @@
     </style>
   </head>
   <body>
-    <h1 id="font1">วรรณวิสา นิตยพันธ์ ม.4/12 เลขที่ 24 เลขประจำตัว 57070</h1>
-    <h1 id="font2">วรรณวิสา นิตยพันธ์ ม.4/12 เลขที่ 24 เลขประจำตัว 57070</h1>
+    <h1 id="font1">สุภิชญา พวงบุพผา ม.4/12 เลขที่ 25 เลขประจำตัว 57072</h1>
+    <h1 id="font2">สุภิชญา พวงบุพผา ม.4/12 เลขที่ 25 เลขประจำตัว 57072</h1>
   </body>
 </html>
