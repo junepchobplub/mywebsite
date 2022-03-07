@@ -31,7 +31,7 @@
       <tr>
         <td>4</td>
         <td>จอร์นนี่</td>
-        <td><img src="https://images.app.goo.gl/YQ9zuNUG2j1uhcdT9"45px"></td>
+        <td><img src="https://images.app.goo.gl/YQ9zuNUG2j1uhcdT9" width="45px"></td>
         <td><a href="https://instagram.com/johnnyjsuh?utm_medium=copy_link">Facebook</a></td>
       </tr>
       <tr>
